@@ -7,4 +7,4 @@ Conception de BDD : 13/20
 Notes du second semestre : 
 
 Anglais : 17/20
-
+POO avec Java : 16/20
