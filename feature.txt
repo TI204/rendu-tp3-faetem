@@ -1,1 +1,2 @@
 Semaine 1 : Ajout de la première feature 
+Semaine 3 : Ajout de la deuxième feature
