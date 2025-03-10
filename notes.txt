@@ -1,0 +1,6 @@
+Notes du premier semestre :
+
+Anglais : 19/20
+JavaScript : 17/20
+Conception de BDD : 13/20
+
